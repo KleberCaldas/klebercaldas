@@ -2,6 +2,9 @@
 
 * 🔒 Atualmente, estou estudando segurança da informação
 * 🐍 Gosto de programar em Python
+ <img height="100cm" src="https://tryhackme-badges.s3.amazonaws.com/mergesort.png" alt="Kleber Caldas' Badge" />
 
-
-![Kleber Caldas' GitHub stats](https://github-readme-stats.vercel.app/api?username=KleberCaldas&show_icons=true&theme=shadow_green)
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=KleberCaldas&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleberCaldas&layout=compact&langs_count=16&theme=default">
+</div>
